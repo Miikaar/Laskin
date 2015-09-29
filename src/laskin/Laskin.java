@@ -45,12 +45,12 @@ public class Laskin {
     }
     
     public void virtaON() {
-        // Tähän voisi laittaa alkutoimet
+        System.out.println("Laskin on päällä.");
         tulos = 0;
     }
 
     public void virtaOFF() {
-        // Tähän voisi laittaa lopputoimet
+        System.out.println("Laskin sammuu.");
     }
 
 }
